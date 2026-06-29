@@ -1,26 +1,13 @@
 # Color Picker Panel Figma
 
-
-  # Color Picker Panel
-
-  This is a code bundle for Color Picker Panel. The original project is available at https://www.figma.com/design/BLEHDbFv2fJE4vZo0ZNF8y/Color-Picker-Panel.
-
-  ## Running the code
-
-  Run `bun install` to install the dependencies.
-
-  Run `bun run dev` to start the development server.
-  
-
+A web application code bundle exported from the Color Picker Panel Figma design project.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
 
+## Tech Stack
 
-## Features
-
-- Feature 1 - description
-- Feature 2 - description
-
+- **Design** - Figma
+- **Runtime** - Node.js
 
 ## Getting Started
 
@@ -45,11 +32,6 @@ bun run dev
 ## License
 
 [MIT](LICENSE)
-
-
-## Tech Stack
-
-- **Tool** - Figma
 
 ---
 Built with: Figma
